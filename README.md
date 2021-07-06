@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm currently enrolled in Computer Science Bachelor's degree 🐉
 
 ## Fun facts
-- 🅱 I'm working with NLP for my Degree Final Project Dissertation
+- 🅱 Working with NLP for my Degree Final Project Dissertation
 - 🦀 Currently learning Rust
 - ❤ Gamedev lover
 - 🎬 I'm a movie and anime enthusiast 
